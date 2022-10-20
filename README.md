@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay007thor&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay007thor" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmay007thor" alt="tanmay007thor" /></a> </p>
-
 - 🔭 I’m currently working on [Graphite](https://www.sweetooth.art/)
 
 - 🌱 I’m currently learning **Node JS , Python**
