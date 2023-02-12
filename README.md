@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay007thor&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay007thor" /> </p>
 
-- 🔭 I’m currently working on [Graphite](https://www.sweetooth.art/)
+<!-- - 🔭 I’m currently working on [Graphite](https://www.sweetooth.art/) -->
 
 - 🌱 I’m currently learning **Node JS , Python**
 
