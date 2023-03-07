@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Tanmay Rathod</h1>
-<h3 align="center">A Computer Engineer Student in 7th sem who is seeking to find the opportunity to work in a fun and challenging working environment I am React Developer and also I have worked on a live project for the company I have contributed to building 3 web app projects</h3>
+<h1 align="center">Tanmay Rathod</h1>
+<h3 align="center">a proficient computer science student in the 8th semester, excels at overcoming
+challenges and developing effective solutions. With 8 months of software engineering
+experience, Tanmay has honed the skills necessary to produce successful results. Specifically,
+Tanmay possesses great proficiency in MERN stack development, and is passionate about
+solving complex data structure problems. Tanmay is an enthusiastic and dedicated worker, who
+always brings a positive attitude to the job.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay007thor&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay007thor" /> </p>
 
