@@ -1,4 +1,4 @@
-<h1 align="center">Tanmay Rathod</h1>
+<h1 align="center">👨‍💻 Tanmay Rathod</h1>
 <h3 align="center">a proficient computer science student in the 8th semester, excels at overcoming
 challenges and developing effective solutions. With 8 months of software engineering
 experience, Tanmay has honed the skills necessary to produce successful results. Specifically,
