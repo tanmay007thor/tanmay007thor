@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👨‍💻, I'm Tanmay Rathod</h1>
-<h3 align="center">a proficient computer science student in the 8th semester, excels at overcoming challenges and developing effective solutions. With 8 months of software engineering experience, Tanmay has honed the skills necessary to produce successful results. Specifically, Tanmay possesses great proficiency in MERN stack development, and is passionate about solving complex data structure problems. Tanmay is an enthusiastic and dedicated worker, who always brings a positive attitude to the job.</h3>
+<h3 align="center"Tanmay is a skilled MERN stack developer and expert problem solver who thrives on challenging projects. With an enthusiastic and positive attitude, he approaches every task with a determination to succeed.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay007thor&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay007thor" /> </p>
 
