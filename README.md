@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Next Js , Python ,**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-app-2si1.onrender.com/](https://portfolio-app-2si1.onrender.com/)
+- 👨‍💻 All of my projects are available at [tanmay-dev.netliify.app](tanmay-dev.netliify.app)
 
 - 💬 Ask me about **NodeJS , ReactJS , MongoDb , Express Js**
 
 - 📫 How to reach me **tanmayrathod777@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-app-2si1.onrender.com/](https://portfolio-app-2si1.onrender.com/)
+- 📄 Know about my experiences [tanmay-dev.netliify.app](tanmay-dev.netliify.app)
 
 - ⚡ Fun fact **I'm like a data juggling wizard! Give me a few datasets and watch me work my magic with Python, MERN stack, and DSA problem-solving skills. It's like a high-wire act, but I always stay cool under pressure**
 
