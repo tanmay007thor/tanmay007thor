@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👨‍💻, I'm Tanmay Rathod</h1>
-<h3 align="center">Tanmay is a skilled MERN stack developer and expert problem solver who thrives on challenging projects. With an enthusiastic and positive attitude, he approaches every task with a determination to succeed.</h3>
-
+    <h3 align="center">Unleashing the Power of AI 🚀 | M.Tech Student & MERN Stack Developer | Coding, Creating, and
+        Conquering</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay007thor&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay007thor" /> </p>
 
 
