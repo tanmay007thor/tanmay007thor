@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay007thor&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay007thor" /> </p>
 
 
-- 🔭 I’m currently working on [Machine Learning]( )
+      - 🔭 I’m currently working on [Machine Learning]( )
 
-- 🌱 I’m currently learning **Next Js , OpenCV , **
+- 🌱 I’m currently learning **Machine Learning , AI , CV , & more.... **
 
 - 👨‍💻 All of my projects are available at [tanmay-dev.netliify.app](tanmay-dev.netliify.app)
 
