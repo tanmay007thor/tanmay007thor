@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👨‍💻, I'm Tanmay Rathod</h1>
-    <h3 align="center">Unleashing the Power of AI 🚀 | M.Tech Student & MERN Stack Developer | Coding, Creating, and
-        Conquering</h3>
+
+<h1 align="center" style="color: #3498db; font-family: 'Arial', sans-serif; text-shadow: 2px 2px 4px #666;">Hi
+        👨‍💻, I'm Tanmay Rathod</h1>
+<h3 align="center" style="color: #2ecc71; font-family: 'Verdana', sans-serif; text-shadow: 1px 1px 2px #888;">
+        Unleashing the Power of AI 🚀 | M.Tech Student & MERN Stack Developer | Coding, Creating, and Conquering</h3>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay007thor&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay007thor" /> </p>
 
 
