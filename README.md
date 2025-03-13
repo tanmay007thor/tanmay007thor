@@ -112,31 +112,31 @@
 
 ## 📄 **Publications & Awards**  
 
-### **🔹 IEEE CICT-2024 (To be Published)**  
-**📌 Paper:** *Automated Sleep Staging System Using EEG Signal Feature-Based Classification by Machine Learning Techniques*  
-**📅 Conference:** *2024 IEEE 8th International Conference on Information and Communication Technology (CICT)*  
-**📍 Location:** *IIIT Allahabad, India*  
-**🔗 IEEE Xplore:** [DOI: 10.1109/CICT64037.2024.10899578](https://ieeexplore.ieee.org/document/10899578)  
+### **🔹 IEEE CICT-2024** *(To be Published)*  
+📌 **Paper:** *Automated Sleep Staging System Using EEG Signal Feature-Based Classification by Machine Learning Techniques*  
+📅 **Conference:** *2024 IEEE 8th International Conference on Information and Communication Technology (CICT)*  
+📍 **Location:** *IIIT Allahabad, India*  
+🔗 **IEEE Xplore:** [DOI: 10.1109/CICT64037.2024.10899578](https://ieeexplore.ieee.org/document/10899578)  
 
 ---
 
-
-
-🏆 Best Paper Award – IEEE IATMSI-2025
-📌 Paper: Automated Sleep Staging System Using EEG Signal Feature-Based Classification by Machine Learning Techniques
-📜 Paper ID: 687
-🏅 Status: Awarded for Best Paper
-📅 Conference: 3rd IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI-2025)
-📍 Location: ABV-Indian Institute of Information Technology and Management (IIITM) Gwalior, Madhya Pradesh, India
+### **🏆 Best Paper Award – IEEE IATMSI-2025**  
+📌 **Paper:** *Automated Sleep Staging System Using EEG Signal Feature-Based Classification by Machine Learning Techniques*  
+📜 **Paper ID:** *687*  
+🏅 **Status:** *Awarded for Best Paper*  
+📅 **Conference:** *3rd IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI-2025)*  
+📍 **Location:** *ABV-Indian Institute of Information Technology and Management (IIITM) Gwalior, Madhya Pradesh, India*  
 
 ---
 
+## 🎓 **Certifications**  
 
-🎓 Certifications
-📜 Udemy Certifications
-✅ Python for Computer Vision with OpenCV and Deep Learning – UC-ba33e1c3-9677-4118-a339-7700e270d1d3
-✅ Deep Learning A-Z 2024 – UC-ba495ea9-b4bc-4bb7-88ec-f52f221f18db
-✅ Machine Learning A-Z – UC-e9740590-1cbb-49f4-86c9-b04d8ed50fa6
-✅ The Data Science Course – UC-272b3248-fc7c-40e3-9745-09e5fe05e77d
+### **📜 Udemy Certifications**  
+✅ **Python for Computer Vision with OpenCV and Deep Learning** – `UC-ba33e1c3-9677-4118-a339-7700e270d1d3`  
+✅ **Deep Learning A-Z 2024** – `UC-ba495ea9-b4bc-4bb7-88ec-f52f221f18db`  
+✅ **Machine Learning A-Z** – `UC-e9740590-1cbb-49f4-86c9-b04d8ed50fa6`  
+✅ **The Data Science Course** – `UC-272b3248-fc7c-40e3-9745-09e5fe05e77d`  
+
+---
 
  
