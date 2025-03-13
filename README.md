@@ -72,26 +72,38 @@
 ### **🚀 CI/CD & DevOps**  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![DevOps](https://img.shields.io/badge/DevOps-FF5733?style=for-the-badge&logo=devops&logoColor=white)  
 
-Now, all the badges are in a single line. 🚀
+
+
+ 
+ 
 ---
 
-## 📊 GitHub Stats
+## 🎓 **Education**  
+#### **Pandit Deendayal Energy University (PDEU)** | *Master of Artificial Intelligence* (June 2023 – June 2025)  
+📌 **CGPA:** 8.86  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmay007thor&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay007thor&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay007thor&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+#### **Gujarat Technological University (GTU)** | *B.Tech in Computer Science & Engineering* (May 2019 – July 2023)  
+📌 **CGPA:** 8.93  
 
 ---
 
-### 🚀 Let's Collaborate!
-If you have an interesting project related to **AI, Machine Learning, or Full-Stack Development**, feel free to **reach out**. Let's build something amazing together! 🤝
+## 💼 **Experience**  
+
+### **Software Engineer** | [DigiQt Technolab](https://www.digiqt.com) – Ahmedabad *(May 2022 – Dec 2022)*  
+🔹 Secured a **full-time role** after **3-month React.js & Node.js training** (20% selection rate).  
+🔹 Reduced **bug reports by 30%** and improved **API response time by 15%** in the *Graphite Project*.  
+🔹 Developed UX features: **appointment calendar, admin panel, patient OTP, and dynamic JSON.**  
+🔹 Managed **Git repositories** and **integrated/tested REST APIs**.  
+
+### **Software Engineer** | [SDS Softwares](https://www.sdssoftwares.com) – Noida *(Apr 2023 – Sep 2023)*  
+🔹 Built **reusable React.js components** integrated with **Node.js**.  
+🔹 Optimized **page load speed by 15%**, enhancing performance.  
+🔹 Ensured **UI/UX brand consistency** and **mobile optimization**.  
+
+### **Research & Teaching Assistant** | PDEU – Gandhinagar *(Jul 2023 – Present)*  
+🔹 Achieved **93% accuracy** in *sleep stage classification* using **deep learning**.  
+🔹 Designed **GCN & Transformer models**, improving AI accuracy from **80% → 93%**.  
+🔹 Implemented **Explainable AI (XAI) for biomedical signals** and mentored students in **AI/ML research & deep learning architectures**.  
 
 ---
+
