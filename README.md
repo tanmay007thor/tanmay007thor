@@ -77,65 +77,65 @@
  
  
 ---
-
-## 🎓 **Education**  
-#### **Pandit Deendayal Energy University (PDEU)** | *Master of Artificial Intelligence* (June 2023 – June 2025)  
-📌 **CGPA:** 8.86  
-
-#### **Gujarat Technological University (GTU)** | *B.Tech in Computer Science & Engineering* (May 2019 – July 2023)  
-📌 **CGPA:** 8.93  
-
----
-
-## 💼 **Experience**  
-
-### **Software Engineer** | [DigiQt Technolab](https://www.digiqt.com) – Ahmedabad *(May 2022 – Dec 2022)*  
-🔹 Secured a **full-time role** after **3-month React.js & Node.js training** (20% selection rate).  
-🔹 Reduced **bug reports by 30%** and improved **API response time by 15%** in the *Graphite Project*.  
-🔹 Developed UX features: **appointment calendar, admin panel, patient OTP, and dynamic JSON.**  
-🔹 Managed **Git repositories** and **integrated/tested REST APIs**.  
-
-### **Software Engineer** | [SDS Softwares](https://www.sdssoftwares.com) – Noida *(Apr 2023 – Sep 2023)*  
-🔹 Built **reusable React.js components** integrated with **Node.js**.  
-🔹 Optimized **page load speed by 15%**, enhancing performance.  
-🔹 Ensured **UI/UX brand consistency** and **mobile optimization**.  
-
-### **Research & Teaching Assistant** | PDEU – Gandhinagar *(Jul 2023 – Present)*  
-🔹 Achieved **93% accuracy** in *sleep stage classification* using **deep learning**.  
-🔹 Designed **GCN & Transformer models**, improving AI accuracy from **80% → 93%**.  
-🔹 Implemented **Explainable AI (XAI) for biomedical signals** and mentored students in **AI/ML research & deep learning architectures**.  
-
----
-
-
  
+## 🎓 **Education**  
+
+### 📌 **Pandit Deendayal Energy University (PDEU)**  
+🖥️ **Master of Artificial Intelligence** *(June 2023 – June 2025)*  
+📊 **CGPA:** 8.86  
+
+### 📌 **Gujarat Technological University (GTU)**  
+🖥️ **B.Tech in Computer Science & Engineering** *(May 2019 – July 2023)*  
+📊 **CGPA:** 8.93  
+
+---
+
+## 💼 **Professional Experience**  
+
+### 🔹 **Software Engineer** – [DigiQt Technolab](https://www.digiqt.com) *(May 2022 – Dec 2022)*  
+✅ Secured a **full-time role** after **3-month React.js & Node.js training** *(20% selection rate)*  
+✅ Reduced **bug reports by 30%** and improved **API response time by 15%** *(Graphite Project)*  
+✅ Developed key UX features: **appointment calendar, admin panel, patient OTP & dynamic JSON**  
+✅ Managed **Git repositories** and **integrated/tested REST APIs**  
+
+### 🔹 **Software Engineer** – [SDS Softwares](https://www.sdssoftwares.com) *(Apr 2023 – Sep 2023)*  
+✅ Built **reusable React.js components** integrated with **Node.js**  
+✅ Optimized **page load speed by 15%**, enhancing performance & UX  
+✅ Ensured **UI/UX brand consistency** and **mobile responsiveness**  
+
+### 🔹 **Research & Teaching Assistant** – PDEU *(Jul 2023 – Present)*  
+✅ Achieved **93% accuracy** in *sleep stage classification* using **deep learning**  
+✅ Designed **GCN & Transformer models**, improving AI accuracy from **80% → 93%**  
+✅ Implemented **Explainable AI (XAI) for biomedical signals**  
+✅ Mentored students in **AI/ML research & deep learning architectures**  
+
+---
 
 ## 📄 **Publications & Awards**  
 
-### **🔹 IEEE CICT-2024** *(To be Published)*  
+### 🏆 **IEEE CICT-2024 (To be Published)**  
 📌 **Paper:** *Automated Sleep Staging System Using EEG Signal Feature-Based Classification by Machine Learning Techniques*  
 📅 **Conference:** *2024 IEEE 8th International Conference on Information and Communication Technology (CICT)*  
 📍 **Location:** *IIIT Allahabad, India*  
 🔗 **IEEE Xplore:** [DOI: 10.1109/CICT64037.2024.10899578](https://ieeexplore.ieee.org/document/10899578)  
 
----
-
-### **🏆 Best Paper Award – IEEE IATMSI-2025**  
+### 🏆 **Best Paper Award – IEEE IATMSI-2025**  
 📌 **Paper:** *Automated Sleep Staging System Using EEG Signal Feature-Based Classification by Machine Learning Techniques*  
 📜 **Paper ID:** *687*  
 🏅 **Status:** *Awarded for Best Paper*  
 📅 **Conference:** *3rd IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI-2025)*  
-📍 **Location:** *ABV-Indian Institute of Information Technology and Management (IIITM) Gwalior, Madhya Pradesh, India*  
-🔗 **IATMSI:** [https://iatmsi.iiitm.ac.in/awards-grants/](https://iatmsi.iiitm.ac.in/awards-grants/)
+📍 **Location:** *IIITM Gwalior, India*  
+🔗 **IATMSI Awards:** [View Here](https://iatmsi.iiitm.ac.in/awards-grants/)  
+
 ---
 
 ## 🎓 **Certifications**  
 
-### **📜 Udemy Certifications**  
-✅ **Python for Computer Vision with OpenCV and Deep Learning** – `UC-ba33e1c3-9677-4118-a339-7700e270d1d3`  
-✅ **Deep Learning A-Z 2024** – `UC-ba495ea9-b4bc-4bb7-88ec-f52f221f18db`  
-✅ **Machine Learning A-Z** – `UC-e9740590-1cbb-49f4-86c9-b04d8ed50fa6`  
-✅ **The Data Science Course** – `UC-272b3248-fc7c-40e3-9745-09e5fe05e77d`  
+### 📜 **Udemy Certifications**  
+✅ **Python for Computer Vision with OpenCV and Deep Learning**  
+✅ **Deep Learning A-Z 2024**  
+✅ **Machine Learning A-Z**  
+✅ **The Data Science Course**  
 
 ---
 
