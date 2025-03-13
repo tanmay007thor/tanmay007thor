@@ -126,7 +126,7 @@
 🏅 **Status:** *Awarded for Best Paper*  
 📅 **Conference:** *3rd IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI-2025)*  
 📍 **Location:** *ABV-Indian Institute of Information Technology and Management (IIITM) Gwalior, Madhya Pradesh, India*  
-
+🔗 **IATMSI:** [https://iatmsi.iiitm.ac.in/awards-grants/](https://iatmsi.iiitm.ac.in/awards-grants/)
 ---
 
 ## 🎓 **Certifications**  
