@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Tanmay Rathod</h1>
-<h3 align="center">AI Researcher | Machine Learning Engineer | Software Engineer & MERN Developer</h3>
+<h3 align="center">Software Engineer @ Infineon Technologies | AI/ML Researcher | Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tanmay007thor&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Machine Learning & AI Research**
-- 🌱 I’m currently learning **Deep Learning, AI, Computer Vision, and more...**
+- 🔭 I'm currently working as a **Software Engineer (Associate Engineer)** at **Infineon Technologies**, contributing to the **IPOSIM** project
+- 🛠️ My day-to-day involves **code review, MR approvals, local test execution, bug identification, and result validation**, alongside tracking work in **JIRA**
+- 🌱 I'm currently deepening my expertise in **software testing, Deep Learning, and Computer Vision**
 - 👨‍💻 My projects are available at [tanmay-dev.netlify.app](https://tanmay-dev.netlify.app/)
-- 💬 Ask me about **Node.js, React.js, MongoDB, Express.js, AI, and ML**
+- 💬 Ask me about **software testing, code review practices, Node.js, React.js, MongoDB, Express.js, AI, and ML**
 - 📫 Reach me at **tanmayrathod777@gmail.com**
 - 📄 Check out my resume: [tanmay-dev.netlify.app](https://tanmay-dev.netlify.app/)
  
@@ -92,6 +93,20 @@
 
 ## 💼 **Professional Experience**  
 
+### 🔹 **Associate Engineer** – Infineon Technologies *(Jun 2026 – Present)*  
+📍 Gandhinagar, Gujarat, India  
+✅ Working on the **IPOSIM** project, focused on software testing and code quality  
+✅ Reviewing and approving **merge requests (MRs)**, ensuring code correctness and adherence to standards  
+✅ Executing **local test runs** to validate code changes prior to integration  
+✅ Identifying **bugs and potential mismatches** in results through detailed analysis and review  
+✅ Tracking and managing development tasks through **JIRA**  
+
+### 🔹 **Software Engineer Intern** – Infineon Technologies *(Jul 2025 – May 2026)*  
+📍 Gandhinagar, Gujarat, India  
+✅ Built a foundation in **software testing, code review, and test automation** on the IPOSIM project  
+✅ Assisted in **MR reviews** and **local test execution**, flagging defects and result mismatches  
+✅ Converted to a **full-time Associate Engineer** role at the end of the internship  
+
 ### 🔹 **Software Engineer** – [DigiQt Technolab](https://www.digiqt.com) *(May 2022 – Dec 2022)*  
 ✅ Secured a **full-time role** after **3-month React.js & Node.js training** *(20% selection rate)*  
 ✅ Reduced **bug reports by 30%** and improved **API response time by 15%** *(Graphite Project)*  
@@ -103,7 +118,7 @@
 ✅ Optimized **page load speed by 15%**, enhancing performance & UX  
 ✅ Ensured **UI/UX brand consistency** and **mobile responsiveness**  
 
-### 🔹 **Research & Teaching Assistant** – PDEU *(Jul 2023 – Present)*  
+### 🔹 **Research & Teaching Assistant** – PDEU *(Jul 2023 – Jun 2025)*  
 ✅ Achieved **93% accuracy** in *sleep stage classification* using **deep learning**  
 ✅ Designed **GCN & Transformer models**, improving AI accuracy from **80% → 93%**  
 ✅ Implemented **Explainable AI (XAI) for biomedical signals**  
